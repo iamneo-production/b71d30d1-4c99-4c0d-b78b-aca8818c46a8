@@ -1,0 +1,96 @@
+.navbar{
+    background-color: rgb(212, 89, 89);
+    color: white;
+    font-weight: 800;
+    height: 60px;
+}
+
+.home{
+     color: white;
+     margin-right: -900px;
+}
+.perscription{
+    color: white;
+    margin-right: 100px;
+}
+.detail{
+   width: 180px;
+   height: 120px ;
+}
+.cll{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.container1
+{
+    width: 180px;
+    height: 210px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+.profile{
+    height: 60px;
+    width: 60px;
+    margin-left: -8px;
+    margin-top:-3px;
+}
+.image{
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+.Report
+{
+    color: white;
+    margin-right:-900px;
+}
+
+.table
+{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 100px;
+    
+    border-radius: 30px;
+}
+.row
+{
+    margin-left: -100px;
+}
+.col-3
+{
+    margin-top: 20px;
+    margin-left: -50px;
+    margin-right: 100px;
+}
+.addupdate
+{
+    margin-top: 40px;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+.detail{
+    width: 180px;
+    height: 120px ;
+ }
+ .pro{
+    height: 65px;
+    width: 65px;
+    margin-left: -62px;
+    margin-top:-25px;
+}
+.img{
+    height: 65px;
+    width: 65x;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
