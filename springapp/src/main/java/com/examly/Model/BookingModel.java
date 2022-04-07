@@ -13,7 +13,7 @@ public class BookingModel {
     public BookingModel(){
 
     }
-    public BookingModel(String bookingid,UserModel clientDetail,BeauticianDetail BeauticianModel,String lawfirmName,Date date,Date time,Boolean bookingStatus,BookingModel){
+    public BookingModel(String bookingid,UserModel clientDetail,BeauticianDetail BeauticianModel,String lawfirmName,Date date,Date time,Boolean bookingStatus){
         this.bookingid = bookingid;
         this.clientDetail = clientDetail;
         this.BeauticianModel=BeauticianModel;
